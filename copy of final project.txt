@@ -1,0 +1,52 @@
+[]      []  [][][][][]  []  []    [][][][][]
+[]      []  []          []  []  []          []
+[]      []  []          []  []  []          []
+[]      []  []          []  []  []          []
+[]      []  []          []  []  []          []
+[][][][][]  [][][][]    []  []  []          []
+[]      []  []          []  []  []          []
+[]      []  []          []  []  []          []
+[]      []  []          []  []  []          []
+[]      []  []          []  []  []          []
+[]      []  []          []  []  []          []
+[]      []  [][][][][]  []  []    [][][][][]
+1: drinks.txt
+2: Elements.txt
+3: music.txt
+4: pre_cars.txt
+5: super_movies.txt
+Type one number: 5
+
+material/super_movies.txt
+----------------- () *0*
+Guess a letter: _
+------_-_-------- (_) *0*
+Guess a letter: p
+------_-_--p----- (_p) *1*
+Guess a letter: o
+------_-_--p----- (_po) *2*
+Guess a letter: j
+------_-_--p----- (_poj) *3*
+Guess a letter: n
+-----n_-_--p----n (_pojn) *4*
+Guess a letter: d
+-----n_-_--p----n (_pojnd) *5*
+Guess a letter: b
+b----n_-_--p----n (_pojndb) *6*
+Guess a letter: m
+b--m-n_-_--p--m-n (_pojndbm) *7*
+Guess a letter: w
+b--m-n_-_--p--m-n (_pojndbmw) *8*
+Guess a letter: a
+ba-man_-_--p--man (_pojndbmwa) *9*
+
+Try harder come on!
+
+("##################################")
+("#                                #")
+("#     The Creator Carlitos       #")
+("#             11/16              #")
+("##################################")
+
+
+Would you like to play again? (y/n) 
