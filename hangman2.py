@@ -3,7 +3,7 @@ import random
 
 
 def get_puzzle():
-    path = "material"
+    path = "puzzle"
 
     names = os.listdir(path)
 
